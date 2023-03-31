@@ -5,7 +5,7 @@
 }
 #screen{
     width: 100%;
-    background-image: url(./images/bgimg2.jpg);
+    background-image: url(/images/bgimg2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 80vh;
@@ -446,11 +446,12 @@
 }
 
 /* topics  */
-.topics{
-    /* width: 90%;
-    justify-content: space-around; */
+/* .topics{
+    width: 90%;
+    justify-content: space-around;
 
-}
+
+} */
 .topics > .section-name {
     margin-top: 20px;
     width: 10%;
@@ -635,7 +636,7 @@
 
 /* Footer */
 .footer{
-    background-image: url(./images/bgimg2.jpg);
+    background-image: url(/images/bgimg2.jpg);
     width: 100%;
     height: 60vh;
     background-repeat: no-repeat;
